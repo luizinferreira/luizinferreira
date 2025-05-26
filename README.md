@@ -16,8 +16,8 @@
 <p align="center">
   
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=luizinferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizinferreira&theme=tokyonight" alt="Streak Stats"/>
+  <img width="340" src="https://github-readme-stats.vercel.app/api?username=luizinferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=luizinferreira&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 <p align="center">
