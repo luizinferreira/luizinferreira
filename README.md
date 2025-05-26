@@ -44,7 +44,7 @@
 ---
 - 📫 How to reach me:  
    • Email: **luiz.marcal@gparana.com.br**  
-   • LinkedIn: [linkedin.com/in/luizinferreira](https://www.linkedin.com/in/luizeduardomarcal/)  
+   • LinkedIn: [linkedin.com/in/luizeduardomarcal](https://www.linkedin.com/in/luizeduardomarcal/)  
 
 ---
 ## 🌐 Connect with me
