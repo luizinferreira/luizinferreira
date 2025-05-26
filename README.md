@@ -17,7 +17,7 @@
   
  
   <!-- <img width="340" src="https://github-readme-stats.vercel.app/api?username=luizinferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/> -->
-  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=luizinferreira&theme=tokyonight" alt="Streak Stats"/>
+  <img width="355" src="https://github-readme-streak-stats.herokuapp.com/?user=luizinferreira&theme=tokyonight" alt="Streak Stats"/>
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizinferreira&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
