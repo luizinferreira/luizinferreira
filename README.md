@@ -5,7 +5,10 @@
 🚀 Passionate about crafting web solutions and building high-performance applications.
 
 ---
+## 📈 GitHub Stats
+![Luiz Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizinferreira&show_icons=true&theme=radical)
 
+---
 ## 🛠️ My Favorite Technologies
 
 - **Languages:**
@@ -19,12 +22,6 @@
 - **Web:**
   - HTML
   - CSS
-
----
-
-## 📈 GitHub Stats
-
-![Luiz Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizinferreira&show_icons=true&theme=radical)
 
 ---
 
