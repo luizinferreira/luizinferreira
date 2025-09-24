@@ -3,7 +3,6 @@
 </h1>
 
 <h3 align="center">Passionate about World AI, creating web solutions and solving problems with code.</h3>
-
 ---
 
 - 🔭 I’m currently working on **Private Projects.** 
