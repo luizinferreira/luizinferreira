@@ -37,7 +37,7 @@
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" width="50" height="50"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/> -->
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-CGLJKjHRC5-5ZJ2tbIi5w.jpeg" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/20243897?s=200&v=4" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50"/>
 </p>
 
